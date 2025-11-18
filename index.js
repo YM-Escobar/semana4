@@ -1,0 +1,1 @@
+//Haciendo responsivo el javascript
